@@ -2,4 +2,4 @@
 - 👀 I’m interested in ML & IoT
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on different projects
-- 📫 How to reach me -> https://www.linkedin.com/in/jorge-de-vivero-toledo-08b06760/
+- 📫 How to reach me -> https://www.linkedin.com/in/jorge-de-vivero-toledo/
